@@ -7,7 +7,7 @@ use Class::Accessor::Lite (
     ro => [qw{caches sync_level sync_expiration}],
 );
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 our $SYNC_LEVEL_NONE   = 1;
 our $SYNC_LEVEL_MISSED = 2;

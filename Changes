@@ -2,7 +2,10 @@ Revision history for Perl extension Cache-Escalate
 
 {{$NEXT}}
 
+0.02 2016-11-04T02:21:16Z
+
+    - rewrite documentation
+
 0.01 2016-11-04T01:29:33Z
 
     - original version
-
